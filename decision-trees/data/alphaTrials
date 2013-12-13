@@ -1,0 +1,56 @@
+
+Alpha at 10^-1:
+
+Total accuracy: 0.46551724137931033
+Total accuracy: 0.576271186440678
+Total accuracy: 0.423728813559322
+Total accuracy: 0.423728813559322
+Total accuracy: 0.559322033898305
+
+Mean: 0.48971
+Std Dev: 0.07354
+
+Alpha at 10^-2:
+
+Total accuracy: 0.46551724137931033
+Total accuracy: 0.423728813559322
+Total accuracy: 0.576271186440678
+Total accuracy: 0.576271186440678
+Total accuracy: 0.4406779661016949
+
+Mean: 0.49649
+Std Dev: 0.07433
+
+Alpha at 10^-3:
+
+Total accuracy: 0.46551724137931033
+Total accuracy: 0.576271186440678
+Total accuracy: 0.576271186440678
+Total accuracy: 0.423728813559322
+Total accuracy: 0.559322033898305
+
+Mean: 0.52022
+Std Dev: 0.07091
+
+Alpha at 10^-4:
+
+Total accuracy: 0.5344827586206896
+Total accuracy: 0.423728813559322
+Total accuracy: 0.576271186440678
+Total accuracy: 0.576271186440678
+Total accuracy: 0.4406779661016949
+
+Mean: 0.51029
+Std Dev: 0.07354
+
+Alpha at 10^-5:
+
+Total accuracy: 0.5344827586206896
+Total accuracy: 0.423728813559322
+Total accuracy: 0.576271186440678
+Total accuracy: 0.576271186440678
+Total accuracy: 0.4406779661016949
+
+Mean: 0.51029
+Std Dev: 0.07354
+
